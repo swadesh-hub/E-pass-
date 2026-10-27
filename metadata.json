@@ -1,0 +1,7 @@
+{
+  "name": "EventPass QR – College Event Management",
+  "description": "Mobile-first college event registration, unique QR ticket passes, authorized admin verification, duplicate-entry prevention, and live attendance tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
